@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/b271a7ef-8c65-4c67-add7-82b8435380f2)
 
 # Proyecto Storytelling (template): 
 ### my_storytelling
@@ -9,10 +10,12 @@ Autores:
 Incluir lista de personas del grupo 
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
+GRUPO 9 
+👨 Giovanni Ribeiro
+👩 Esther Gimeno Garcia
+👩 Mayte Luque
+👩 Marta Gual
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
 
 
 Proyecto (código): 
@@ -20,35 +23,38 @@ URL (link) del proyecto en Github:
 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
-- [ ] Reality/tribus urbanas  
-- [ ] Comic
+- [x] Reality/tribus urbanas  
+
 
 
 
 ## Resumen
-
+Manolo es un joven granjero que ha vivido toda la vida en el campo, pero le surge un problema familiar que provoca su traslado a la ciudad. Su sobrino está muy enganchado a las pantallas y eso le lleva a replantearse múltiples aspectos sobre la relación entre la sociedad y la tecnología. Es entonces cuando decide empezar una investigación con la que conseguir soluciones para desconectar a las personas de las pantallas y volverlas a conectar con el mundo exterior. Manolo, que es muy místico, tiene la certeza de que tiene el don de leer mentes y ser un experto sobre comportamiento humano. Su método es incitar a la gente de la ciudad a explorar la belleza y el espacio de su granja, porque de ese modo todos aquellos que fueran sometidos a ese cambio, recuperarían de nuevo la ilusión por hacer cosas y renacería su creatividad, dejando atrás esa desgana y sumisión provocada por la adicción a los aparatos tecnológicos.
 
 ### Personaje
 
 ![](img-nobody.png)
 
-Nombre: 
+Nombre: Manolo Pérez García 
 
 
 ### Historia
+Manolo Pérez García es un joven granjero que vive desde su nacimiento afincado 
+en su granja, muy pocas veces ha ido a la ciudad ya que sentía que no era su lugar. Cuando su hermana se mudo a la ciudad Manolo iba con más frecuencia a visitarla, viendo así el problema que las personas tenían con las tecnologías y cómo el comportamiento humano había cambiado, ya que él se considera experto en ello, fue así como Manolo empezó con la idea de iniciar una investigación sobre la adicción de las personas a las nuevas tecnologías. Sin embargo, hasta que su sobrino no nació no empezó con las investigación.   
 
 
 ### TagLine
 
 
 ### Conflicto 
-
+Manolo desde que fue a la ciudad quiso iniciar la investigación pero el agobio que le produce estar allí nunca la iniciaba. El nacimiento de su sobrino fue lo que hizo que comenzase con su investigación ya que no quería que su propio sobrino estuviera enganchado o por lo menos entender porque lo estaba y ayudarle a ver/disfrutar la vida de la manera en la que él y su madre (hermana de Manolo) lo habían hecho. 
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: (img personaje y enlace a interactivo)
+  ![un granjero joven con rastas](https://github.com/user-attachments/assets/941b1102-3155-476f-a623-affacf372f07)
 
+https://h5p.org/node/1523365
 
 - Banner/Teaser:  (enlace) 
 
