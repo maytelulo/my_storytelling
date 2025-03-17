@@ -31,13 +31,15 @@ Tipo/Género:
 ## Resumen
 Manolo es un joven granjero que ha vivido toda la vida en el campo, pero le surge un problema familiar que provoca su traslado a la ciudad. Su sobrino está muy enganchado a las pantallas y eso le lleva a replantearse múltiples aspectos sobre la relación entre la sociedad y la tecnología. Es entonces cuando decide empezar una investigación con la que conseguir soluciones para desconectar a las personas de las pantallas y volverlas a conectar con el mundo exterior. Manolo, que es muy místico, tiene la certeza de que tiene el don de leer mentes y ser un experto sobre comportamiento humano. Su método es incitar a la gente de la ciudad a explorar la belleza y el espacio de su granja, porque de ese modo todos aquellos que fueran sometidos a ese cambio, recuperarían de nuevo la ilusión por hacer cosas y renacería su creatividad, dejando atrás esa desgana y sumisión provocada por la adicción a los aparatos tecnológicos.
 
-### Personaje
+### Personajes
 ![un granjero joven con rastas](https://github.com/user-attachments/assets/b80ba6f2-89a4-4e66-9173-4753bb55fa96)
 
 
 
-Nombre: Manolo Pérez García 
+Nombre protagonista: Manolo Pérez García 
 
+Nombre personaje secundario: Enzo González García 
+![una imagen de un niño pequeño de 10 años que aparezca con dispositivos electrónicos concentrado](https://github.com/user-attachments/assets/93320d24-fbad-4977-b5fd-94eca779e014)
 
 ### Historia
 Manolo Pérez García es un joven granjero que vive desde su nacimiento afincado 
