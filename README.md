@@ -37,7 +37,7 @@ Manolo es un joven granjero que ha vivido toda la vida en el campo, pero le surg
 
 
 Nombre protagonista: Manolo Pérez García 
-Inspiración: Nicholas Carr 
+Inspiración: Nicholas Carr; Theodore John Kaczynski ; Neulodismo (corriente filosófica que se opone al desarrollo tecnológico y científico de la sociedad moderna)
 
 
 
