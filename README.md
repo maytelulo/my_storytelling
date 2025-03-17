@@ -37,6 +37,9 @@ Manolo es un joven granjero que ha vivido toda la vida en el campo, pero le surg
 
 
 Nombre protagonista: Manolo Pérez García 
+Inspiración: Nicholas Carr 
+
+
 
 Nombre personaje secundario: Enzo González García 
 ![una imagen de un niño pequeño de 10 años que aparezca con dispositivos electrónicos concentrado](https://github.com/user-attachments/assets/93320d24-fbad-4977-b5fd-94eca779e014)
