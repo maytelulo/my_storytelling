@@ -44,7 +44,7 @@ Manolo Pérez García es un joven granjero que vive desde su nacimiento afincado
 en su granja, muy pocas veces ha ido a la ciudad ya que sentía que no era su lugar. Cuando su hermana se mudo a la ciudad Manolo iba con más frecuencia a visitarla, viendo así el problema que las personas tenían con las tecnologías y cómo el comportamiento humano había cambiado, ya que él se considera experto en ello, fue así como Manolo empezó con la idea de iniciar una investigación sobre la adicción de las personas a las nuevas tecnologías. Sin embargo, hasta que su sobrino no nació no empezó con las investigación.   
 
 
-### TagLine
+### TagLine "LA TIERRA NUNCA ENGAÑA PERO LA TECNOLOGÍA SI"
 
 
 ### Conflicto 
