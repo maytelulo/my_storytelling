@@ -60,15 +60,18 @@ Manolo desde que fue a la ciudad quiso iniciar la investigación pero el agobio 
 - Personaje: (img personaje y enlace a interactivo)
   ![un granjero joven con rastas](https://github.com/user-attachments/assets/941b1102-3155-476f-a623-affacf372f07)
 
-https://h5p.org/node/1523365
+https://h5p.org/node/1523365 
 
-- Banner/Teaser:  (enlace) 
-
-
-- Storytelling: (enlace) 
+- Banner/Teaser: Échale un ojo al móvil de Enzo📲
+  https://www.figma.com/proto/40WygI7XnHocJM2rtfhXZp/MANOLO?node-id=42-353&t=uXLXJag58EhSP4LB-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=34%3A757  
 
 
+- Storytelling: Sumérgete en el mundo de Manolo y el aprendizaje que le da a su sobrino Enzo:
+  https://arcweave.com/app/project/nwEpK7Pl4a?board=630fdb8a-48d6-473e-9974-2460f7eb2b41&scale=0.337500&coords=-16586.51270027648,-16770.030878427864
 
+
+-Conoce la historia de Manolo y Enzo en Renpy: 
+https://manolocrea.itch.io/manolo 
 
 ### Conclusiones/Valoración del equipo
 
